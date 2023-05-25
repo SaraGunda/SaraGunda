@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A passionate frontend developer from Boston, MA</h3>
+<h3 align="center">A passionate Full-Stack Developer from Boston, MA</h3>
 
 - 🔭 I’m currently working on [YogaMatch](https://github.com/SaraGunda/Personal-Project)
 
